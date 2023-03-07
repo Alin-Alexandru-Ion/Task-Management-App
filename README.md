@@ -12,6 +12,8 @@
 ## Tech Stack:
 <ul>
   <li> Vue.js </li>
+  <li> Vue Router </li>
+  <li> Pinia </li>
   <li> Node.js </li>
   <li> Express.js </li>
   <li> Axios </li>
